@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=张子皓&fontSize=90&fontAlign=50&fontAlignY=30&desc=张清流好帅！😊😊😊&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=张子皓&fontSize=90&fontAlign=50&fontAlignY=30&desc=纸上得来终觉浅，绝知此事要躬行&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -39,7 +39,7 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=张子皓&fontSize=90&fontAlign=50&fontAlignY=70&desc=张子皓好帅💖😊&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=张子皓&fontSize=90&fontAlign=50&fontAlignY=70&desc=大鹏一日同风起，扶摇直上九万里&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 <picture>
